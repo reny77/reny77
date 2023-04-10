@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=reny77&count_private=false&show_icons=true&theme=tokyonight">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reny77&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=tokyonight">
+      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reny77&layout=compact&langs_count=20&theme=tokyonight">
     </a>
   </div>
 </details>
