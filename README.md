@@ -27,3 +27,21 @@ Here are some ideas to get you started:
     </a>
   </div>
 </details>
+
+
+<br />
+<br />
+<br />
+
+
+<h2>⚡ Stats<h2>
+
+![reny77's Stats](https://github-readme-stats.vercel.app/api?username=reny77&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+
+<br />
+
+![reny77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reny77&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+
+<br />
+
+![reny77's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reny77&theme=chartreuse-dark&hide_border=true)
