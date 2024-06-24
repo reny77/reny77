@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/reny77"><img src="https://api.daily.dev/devcards/v2/VroOwzUIj2CUfYpeaAXqV.png?type=wide&r=x4q" width="652" alt="Renato Eschini's Dev Card"/></a>
+<!--a href="https://app.daily.dev/reny77"><img src="https://api.daily.dev/devcards/v2/VroOwzUIj2CUfYpeaAXqV.png?type=wide&r=x4q" width="652" alt="Renato Eschini's Dev Card"/></a-->
 
 <!--
 **reny77/reny77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
