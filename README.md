@@ -3,17 +3,17 @@
 CEO | Software Architect | Software Engineer | Digital Platforms
 
 Computer Science graduate from the University of Pisa (2002).  
-Technology executive and software architect with 20+ years of experience in the ICT sector, focusing on tourism and cultural heritage digital platforms.
+Technology executive with 20+ years of experience in the ICT sector, focusing on tourism and cultural heritage digital systems.
 
-CEO of Inera srl and CEO & Chairman of Medialis srl.  
-Working on digital platforms, AI-driven systems and large-scale information infrastructures.
+CEO of Inera srl and CEO & Chairman of Medialis srl, two software companies based in Pisa, Italy.  
+Working on AI-driven systems, large-scale information infrastructures and digital ecosystems.
 
 ---
 
 ## 🚀 What I Do
 
-- CEO @ **Inera**, software company focused on digital platforms for tourism, culture and public administration  
-- CEO & Chair @ **Medialis**, developer of software platforms for occupational medicine and healthcare facilities  
+- CEO @ **Inera**, developing digital platforms for tourism, culture and public administration  
+- CEO & Chairman @ **Medialis**, building software solutions for occupational medicine and healthcare facilities  
 - Interested in **AI systems, large-scale information platforms and digital ecosystems**
 
 
