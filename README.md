@@ -23,14 +23,15 @@ My main interests include **AI, distributed systems, digital tourism platforms, 
 
 ## 🔥 Streak
 ![](https://streak-stats.demolab.com?user=reny77&theme=tokyonight&hide_border=true)
-
+<!--
 ## 🏆 Trophy
 ![](https://github-profile-trophy.vercel.app/?username=reny77&theme=tokyonight&no-frame=true&row=1&column=6)
-
+-->
 ## 🛠️ Tech stack
 [![My Skills](https://skillicons.dev/icons?i=python,php,react,ts,nodejs,docker,mysql,postgres,git,linux,aws)](https://skillicons.dev)
 
 ## 📫 Contatti
 - LinkedIn: https://www.linkedin.com/in/renatoeschini/
-- Sito web: [Inera srl](https://www.inera.it/)
-- Sito web: [Medialis srl](https://www.medialis.tech/)
+- Medium: https://medium.com/@renato.eschini/about
+- Website: [Inera srl](https://www.inera.it/)
+- Website: [Medialis srl](https://www.medialis.tech/)
