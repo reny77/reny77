@@ -2,7 +2,7 @@
 
 CEO | Software Architect | Software Engineer | Digital Platforms
 
-I work on the design and development of complex software platforms, digital ecosystems and data-driven systems.  
+I design and develop complex software platforms, digital ecosystems and data-driven systems.
 My main interests include **AI, distributed systems, digital tourism platforms, cultural heritage systems and cloud architectures**.
 
 ---
