@@ -1,31 +1,36 @@
-### Hi there 👋
+# Hi, I'm Renato Eschini 👋
 
-<!--a href="https://app.daily.dev/reny77"><img src="https://api.daily.dev/devcards/v2/VroOwzUIj2CUfYpeaAXqV.png?type=wide&r=x4q" width="652" alt="Renato Eschini's Dev Card"/></a-->
+CEO | Software Architect | Digital Platforms
 
-<!--
-**reny77/reny77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on the design and development of complex software platforms, digital ecosystems and data-driven systems.  
+My main interests include **AI, distributed systems, digital tourism platforms, cultural heritage systems and cloud architectures**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
 
-<!-- GitHub stats -->
-<details open>
-  <summary>GitHub stats</summary>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=reny77&count_private=false&show_icons=true&theme=tokyonight">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reny77&layout=compact&langs_count=20&theme=tokyonight">
-    </a>
-  </div>
-</details>
+- CEO at **Inera**, software company focused on digital platforms for tourism, culture and public administration  
+- CEO & President at **Medialis**, developer of software platforms for occupational medicine and healthcare facilities  
+- Interested in **AI systems, large-scale information platforms and digital ecosystems**
+
+
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reny77&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reny77&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reny77&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reny77&theme=tokyonight)
+
+## 🔥 Streak
+![](https://streak-stats.demolab.com?user=reny77&theme=tokyonight&hide_border=true)
+
+## 🏆 Trophy
+![](https://github-profile-trophy.vercel.app/?username=reny77&theme=tokyonight&no-frame=true&row=1&column=6)
+
+## 🛠️ Tech stack
+[![My Skills](https://skillicons.dev/icons?i=python,php,react,ts,nodejs,docker,mysql,postgres,git,linux,aws)](https://skillicons.dev)
+
+## 📫 Contatti
+- LinkedIn: https://www.linkedin.com/in/renatoeschini/
+- Sito web: [Inera srl](https://www.inera.it/)
+- Sito web: [Medialis srl](https://www.medialis.tech/)
