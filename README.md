@@ -2,8 +2,11 @@
 
 CEO | Software Architect | Software Engineer | Digital Platforms
 
-I design and develop complex software platforms, digital ecosystems and data-driven systems.
-My main interests include **AI, distributed systems, digital tourism platforms, cultural heritage systems and cloud architectures**.
+Computer Science graduate from the University of Pisa (2002).  
+Technology executive and software architect with 20+ years of experience in the ICT sector, focusing on tourism and cultural heritage digital platforms.
+
+CEO of Inera srl and CEO & Chairman of Medialis srl.  
+Working on digital platforms, AI-driven systems and large-scale information infrastructures.
 
 ---
 
