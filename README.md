@@ -9,8 +9,8 @@ My main interests include **AI, distributed systems, digital tourism platforms, 
 
 ## 🚀 What I Do
 
-- CEO at **Inera**, software company focused on digital platforms for tourism, culture and public administration  
-- CEO & Chair at **Medialis**, developer of software platforms for occupational medicine and healthcare facilities  
+- CEO @ **Inera**, software company focused on digital platforms for tourism, culture and public administration  
+- CEO & Chair @ **Medialis**, developer of software platforms for occupational medicine and healthcare facilities  
 - Interested in **AI systems, large-scale information platforms and digital ecosystems**
 
 
