@@ -19,7 +19,7 @@ My main interests include **AI, distributed systems, digital tourism platforms, 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reny77&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reny77&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reny77&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reny77&theme=tokyonight)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reny77&theme=tokyonight)-->
 
 ## 🔥 Streak
 ![](https://streak-stats.demolab.com?user=reny77&theme=tokyonight&hide_border=true)
