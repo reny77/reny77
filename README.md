@@ -32,6 +32,6 @@ My main interests include **AI, distributed systems, digital tourism platforms, 
 
 ## 📫 Contatti
 - LinkedIn: https://www.linkedin.com/in/renatoeschini/
-- Medium: https://medium.com/@renato.eschini/about
+- Medium: https://medium.com/@renato.eschini/
 - Website: [Inera srl](https://www.inera.it/)
 - Website: [Medialis srl](https://www.medialis.tech/)
